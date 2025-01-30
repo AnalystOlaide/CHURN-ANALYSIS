@@ -9,7 +9,10 @@ A fictional telecommunications company in California provides phone and internet
 3. What are the key drivers of churn?  
 4. Is the company losing high-value customers? If so, how can they retain them?  
 
-  **Insights Deep Dive**  
+  **Insights Deep Dive**
+  ![image](https://github.com/user-attachments/assets/efa2ee36-be3a-48c9-85d7-36384db6c84b)
+![image](https://github.com/user-attachments/assets/6dfeb8f1-408b-4f3c-bd8f-39868d5e10d1)
+
 
    **1. Customer Acquisition Analysis**  
 - **New customers in Q4:** 233  
